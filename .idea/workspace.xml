@@ -13,6 +13,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4db19ecf-f63c-477a-8d8f-617800300406" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +64,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jrt:///Users/farai/Library/Application Support/JetBrains/Toolbox/apps/AndroidStudio/ch-0/211.7628.21.2111.8193401/Android Studio.app/Contents/jre/Contents/Home!/java.base/java/lang/reflect/AccessibleObject.class" root0="SKIP_INSPECTION" />
+    <setting file="jrt:///Users/farai/Library/Application Support/JetBrains/Toolbox/apps/AndroidStudio/ch-0/211.7628.21.2111.8193401/Android Studio.app/Contents/jre/Contents/Home!/java.base/java/lang/reflect/Field.class" root0="SKIP_INSPECTION" />
+  </component>
   <component name="ProjectId" id="1s9TQxGQPy62ygkS3wT4hzMaTqQ" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -76,7 +81,7 @@
     <property name="cidr.known.project.marker" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/build.gradle" />
     <property name="memory.settings.postsync.last.time.stamp" value="1647246396937" />
-    <property name="settings.editor.selected.configurable" value="preferences.language.Kotlin" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="ReaderModeSettings">
     <option name="showLigatures" value="true" />
