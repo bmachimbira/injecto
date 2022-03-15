@@ -12,76 +12,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4db19ecf-f63c-477a-8d8f-617800300406" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jinjectsu/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jinjectsu/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jinjectsu/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jinjectsu/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jinjectsu/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jinjectsu/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jinjectsu/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jinjectsu/local.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jinjectsu/src/main/java/com/ericlouw/jinjectsu/jinjectsu/CyclicDependencyChecker.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jinjectsu/src/main/java/com/ericlouw/jinjectsu/jinjectsu/InstanceContainer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jinjectsu/src/main/java/com/ericlouw/jinjectsu/jinjectsu/Jinjectsu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jinjectsu/src/main/java/com/ericlouw/jinjectsu/jinjectsu/JinjectsuAnalyzer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jinjectsu/src/main/java/com/ericlouw/jinjectsu/jinjectsu/RegistrationType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jinjectsu/src/main/java/com/ericlouw/jinjectsu/jinjectsu/ScopeContextBinder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jinjectsu/src/main/java/com/ericlouw/jinjectsu/jinjectsu/ScopeContextContainer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jinjectsu/src/main/java/com/ericlouw/jinjectsu/jinjectsu/ScopedContainer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jinjectsu/src/main/java/com/ericlouw/jinjectsu/jinjectsu/ScopedSingletonContainer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jinjectsu/src/main/java/com/ericlouw/jinjectsu/jinjectsu/SingletonContainer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jinjectsu/src/main/java/com/ericlouw/jinjectsu/jinjectsu/TransientContainer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jinjectsu/src/main/java/com/ericlouw/jinjectsu/jinjectsu/TypeBinder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jinjectsu/src/main/java/com/ericlouw/jinjectsu/jinjectsu/configuration/IJinjectsuConfiguration.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jinjectsu/src/main/java/com/ericlouw/jinjectsu/jinjectsu/configuration/JinjectsuConfiguration.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jinjectsu/src/main/java/com/ericlouw/jinjectsu/jinjectsu/exceptions/ConstructorResolutionException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jinjectsu/src/main/java/com/ericlouw/jinjectsu/jinjectsu/exceptions/CyclicDependencyException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jinjectsu/src/main/java/com/ericlouw/jinjectsu/jinjectsu/exceptions/InjectionException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jinjectsu/src/main/java/com/ericlouw/jinjectsu/jinjectsu/exceptions/InvalidAnnotationClassException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jinjectsu/src/main/java/com/ericlouw/jinjectsu/jinjectsu/exceptions/InvalidScopeContextException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jinjectsu/src/main/java/com/ericlouw/jinjectsu/jinjectsu/exceptions/InvalidScopeException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jinjectsu/src/main/java/com/ericlouw/jinjectsu/jinjectsu/exceptions/TypeAlreadyRegisteredException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jinjectsu/src/main/java/com/ericlouw/jinjectsu/jinjectsu/exceptions/UnregisteredTypeException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jinjectsu/src/main/java/com/ericlouw/jinjectsu/jinjectsu/interfaces/IFactoryMethod.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jinjectsu/src/main/java/com/ericlouw/jinjectsu/jinjectsu/interfaces/IScopeContextBinder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jinjectsu/src/main/java/com/ericlouw/jinjectsu/jinjectsu/interfaces/ITypeBinder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jinjectsu/src/main/java/com/ericlouw/jinjectsu/jinjectsu/interfaces/ITypeResolver.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jinjectsu/src/main/java/com/ericlouw/jinjectsu/jinjectsu/utils/ListUtilWrapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jinjectsutest/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jinjectsutest/src/main/java/com/ericlouw/jinjectsu/test/JinjectsuFixture.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jinjectsutest/src/main/java/com/ericlouw/jinjectsu/test/SingletonFixture.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jinjectsutest/src/main/java/com/ericlouw/jinjectsu/test/UtilFixture.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jinjectsutest/src/main/java/com/ericlouw/jinjectsu/test/testmodels/CustomAnnotationModel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jinjectsutest/src/main/java/com/ericlouw/jinjectsu/test/testmodels/CustomAnnotationTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jinjectsutest/src/main/java/com/ericlouw/jinjectsu/test/testmodels/CyclicDependencyA.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jinjectsutest/src/main/java/com/ericlouw/jinjectsu/test/testmodels/CyclicDependencyB.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jinjectsutest/src/main/java/com/ericlouw/jinjectsu/test/testmodels/DependencyWithConstructorException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jinjectsutest/src/main/java/com/ericlouw/jinjectsu/test/testmodels/DependencyWithPrivateConstructor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jinjectsutest/src/main/java/com/ericlouw/jinjectsu/test/testmodels/ICyclicDependencyA.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jinjectsutest/src/main/java/com/ericlouw/jinjectsu/test/testmodels/ICyclicDependencyB.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jinjectsutest/src/main/java/com/ericlouw/jinjectsu/test/testmodels/ITestInterfaceA.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jinjectsutest/src/main/java/com/ericlouw/jinjectsu/test/testmodels/ITestInterfaceB.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jinjectsutest/src/main/java/com/ericlouw/jinjectsu/test/testmodels/ITestInterfaceC.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jinjectsutest/src/main/java/com/ericlouw/jinjectsu/test/testmodels/TestConcreteA.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jinjectsutest/src/main/java/com/ericlouw/jinjectsu/test/testmodels/TestConcreteB.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jinjectsutest/src/main/java/com/ericlouw/jinjectsu/test/testmodels/TestConcreteC.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jinjectsutest/src/main/java/com/ericlouw/jinjectsu/test/testmodels/TestConcreteC2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jinjectsutest/src/main/java/com/ericlouw/jinjectsu/test/testmodels/TestModel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jinjectsutest/src/main/java/com/ericlouw/jinjectsu/test/testmodels/TestModelWithNoFields.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,6 +34,9 @@
           <activation />
         </task>
         <task path="$PROJECT_DIR$/jinjectsu">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/injecto">
           <activation />
         </task>
         <projects_view>
@@ -155,7 +89,7 @@
       <recent name="$PROJECT_DIR$/jinjectsu/src/main/java/dev/brianmachimbira/injecto" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.UtilFixture">
+  <component name="RunManager" selected="Gradle.build">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -268,6 +202,35 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
+    <configuration name="build" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/injecto" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Gradle.build" />
+      <item itemvalue="Gradle.InjectoFixture" />
+      <item itemvalue="Gradle.InjectoFixture.givenObjectWithInjectableFields_WhenInjecting_ResolvedCorrectly" />
+      <item itemvalue="Gradle.InjectoFixture.givenObjectWithInjectableFields_WhenInjectingIntoBaseType_ResolvedCorrectly" />
+      <item itemvalue="Gradle.SingletonFixture" />
+      <item itemvalue="Gradle.UtilFixture" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Gradle.UtilFixture" />
