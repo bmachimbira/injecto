@@ -5,6 +5,16 @@ allprojects {
     repositories {
         maven { url 'https://jitpack.io' }
     }
+
+    publishing {
+        publications {
+            release(MavenPublication) {
+                groupId = "dev.brianmachimbira"
+                artifactId = "injecto"
+                version = "01.1"
+            }
+        }
+    }
 }
 
 dependencies {
