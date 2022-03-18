@@ -11,6 +11,7 @@ import dev.brianmachimbira.injecto.interfaces.ITypeBinder
 import dev.brianmachimbira.injecto.interfaces.ITypeResolver
 import java.lang.reflect.InvocationTargetException
 
+@Suppress("UNCHECKED_CAST")
 class Injecto(configuration: IInjectoConfiguration) {
     private val injectionAnnotation by lazy {
         configuration.injectionAnnotation
