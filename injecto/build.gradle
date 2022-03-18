@@ -11,7 +11,7 @@ allprojects {
             release(MavenPublication) {
                 groupId = "dev.brianmachimbira"
                 artifactId = "injecto"
-                version = "01.1"
+                version = "0.1.3"
             }
         }
     }

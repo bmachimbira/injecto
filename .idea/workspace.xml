@@ -12,6 +12,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4db19ecf-f63c-477a-8d8f-617800300406" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/injecto/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/injecto/build.gradle" afterDir="false" />
     </list>
@@ -47,6 +48,28 @@
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="Injecto" type="f1a62948:ProjectNode" />
               </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Injecto" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Injecto" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="publishing" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Injecto" type="f1a62948:ProjectNode" />
+                <item name="injecto" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Injecto" type="f1a62948:ProjectNode" />
+                <item name="injecto" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
             </expand>
             <select />
           </tree_state>
@@ -81,7 +104,7 @@
     <property name="cidr.known.project.marker" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/build.gradle" />
     <property name="memory.settings.postsync.last.time.stamp" value="1647246396937" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="experimental" />
   </component>
   <component name="ReaderModeSettings">
     <option name="showLigatures" value="true" />
@@ -94,7 +117,7 @@
       <recent name="$PROJECT_DIR$/jinjectsu/src/main/java/dev/brianmachimbira/injecto" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.build">
+  <component name="RunManager" selected="Gradle.Injecto [publishReleasePublicationToMavenLocal]">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -102,65 +125,65 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InjectoFixture" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="Injecto [publishReleasePublicationToMavenLocal]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;dev.brianmachimbira.injecto.test.InjectoFixture&quot;" />
+        <option name="scriptParameters" />
         <option name="taskDescriptions">
           <list />
         </option>
         <option name="taskNames">
           <list>
-            <option value=":injecto:test" />
+            <option value="publishReleasePublicationToMavenLocal" />
           </list>
         </option>
         <option name="vmOptions" />
       </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
       <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="InjectoFixture.givenObjectWithInjectableFields_WhenInjectingIntoBaseType_ResolvedCorrectly" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="Injecto [publishToMavenLocal]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;dev.brianmachimbira.injecto.test.InjectoFixture.givenObjectWithInjectableFields_WhenInjectingIntoBaseType_ResolvedCorrectly&quot;" />
+        <option name="scriptParameters" />
         <option name="taskDescriptions">
           <list />
         </option>
         <option name="taskNames">
           <list>
-            <option value=":injecto:test" />
+            <option value="publishToMavenLocal" />
           </list>
         </option>
         <option name="vmOptions" />
       </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
       <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="InjectoFixture.givenObjectWithInjectableFields_WhenInjecting_ResolvedCorrectly" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="Injecto [publish]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;dev.brianmachimbira.injecto.test.InjectoFixture.givenObjectWithInjectableFields_WhenInjecting_ResolvedCorrectly&quot;" />
+        <option name="scriptParameters" />
         <option name="taskDescriptions">
           <list />
         </option>
         <option name="taskNames">
           <list>
-            <option value=":injecto:test" />
+            <option value="publish" />
           </list>
         </option>
         <option name="vmOptions" />
       </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
       <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
@@ -230,19 +253,19 @@
     </configuration>
     <list>
       <item itemvalue="Gradle.build" />
-      <item itemvalue="Gradle.InjectoFixture" />
-      <item itemvalue="Gradle.InjectoFixture.givenObjectWithInjectableFields_WhenInjecting_ResolvedCorrectly" />
-      <item itemvalue="Gradle.InjectoFixture.givenObjectWithInjectableFields_WhenInjectingIntoBaseType_ResolvedCorrectly" />
       <item itemvalue="Gradle.SingletonFixture" />
       <item itemvalue="Gradle.UtilFixture" />
+      <item itemvalue="Gradle.Injecto [publish]" />
+      <item itemvalue="Gradle.Injecto [publishToMavenLocal]" />
+      <item itemvalue="Gradle.Injecto [publishReleasePublicationToMavenLocal]" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.Injecto [publishReleasePublicationToMavenLocal]" />
+        <item itemvalue="Gradle.Injecto [publishToMavenLocal]" />
+        <item itemvalue="Gradle.Injecto [publish]" />
         <item itemvalue="Gradle.UtilFixture" />
         <item itemvalue="Gradle.SingletonFixture" />
-        <item itemvalue="Gradle.InjectoFixture" />
-        <item itemvalue="Gradle.InjectoFixture.givenObjectWithInjectableFields_WhenInjectingIntoBaseType_ResolvedCorrectly" />
-        <item itemvalue="Gradle.InjectoFixture.givenObjectWithInjectableFields_WhenInjecting_ResolvedCorrectly" />
       </list>
     </recent_temporary>
   </component>
